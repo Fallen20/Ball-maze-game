@@ -12,7 +12,7 @@ No end and will need to quit manually with Alt+F4
 Background images are from google
 Ball texture is done by the author
 
-![Imgur1](https://imgur.com/3uUzFr3)
+![Imgur1](https://i.imgur.com/3uUzFr3.png)
 
 ![Imgur2](https://i.imgur.com/7SRAnIb.png)
 
