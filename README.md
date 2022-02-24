@@ -12,8 +12,7 @@ No end and will need to quit manually with Alt+F4
 Background images are from google
 Ball texture is done by the author
 
-[Imgur][https://imgur.com/3uUzFr3]
-[Imgur][https://imgur.com/7SRAnIb]
+![This is a alt text.](https://i.imgur.com/7SRAnIb.png)
 
 ## About
 - Created with [Unity 2020.3.29f](https://unity.com/es)
